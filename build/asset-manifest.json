@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fecbook/static/css/main.2d236797.css",
+    "main.js": "/fecbook/static/js/main.d4c47b2b.js",
+    "static/media/٢٠٢١١١٢٥_١١٥١٥٩.jpg": "/fecbook/static/media/٢٠٢١١١٢٥_١١٥١٥٩.3e3e5713e04ee9c2de01.jpg",
+    "static/media/363-500x200.jpg": "/fecbook/static/media/363-500x200.70fd4b23071d5028cb74.jpg",
+    "static/media/71-500x200.jpg": "/fecbook/static/media/71-500x200.15fd3043372a2cbfc0b8.jpg",
+    "static/media/915-500x200.jpg": "/fecbook/static/media/915-500x200.3dc340420a648bd8df57.jpg",
+    "static/media/239-500x200.jpg": "/fecbook/static/media/239-500x200.9889e44918e332a8a725.jpg",
+    "static/media/82-500x200.jpg": "/fecbook/static/media/82-500x200.bfbeb36b2f79ed089238.jpg",
+    "static/media/122-500x200.jpg": "/fecbook/static/media/122-500x200.402fd6f987826ecbf4c6.jpg",
+    "static/media/201-500x200.jpg": "/fecbook/static/media/201-500x200.070ce1db22238ae4c653.jpg",
+    "static/media/199-500x200.jpg": "/fecbook/static/media/199-500x200.298655123de926bc91c6.jpg",
+    "index.html": "/fecbook/index.html",
+    "main.2d236797.css.map": "/fecbook/static/css/main.2d236797.css.map",
+    "main.d4c47b2b.js.map": "/fecbook/static/js/main.d4c47b2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d236797.css",
+    "static/js/main.d4c47b2b.js"
+  ]
+}
